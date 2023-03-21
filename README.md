@@ -40,7 +40,9 @@ content='''
 <h1>Top Five Web Application Development Frameworks</h1>
 <h2>1.Django</h2>
 <h2>2. MEAN Stack</h2>
-<h2>3. React </h2>
+<h2>3. React JS </h2>
+<h2>4.Node JS</h2>
+<h2>5.Angular JS</h2>
 </body>
 </html>
 '''
@@ -57,6 +59,7 @@ print("This is my webserver")
 server_address =('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
+
 ```
 ## OUTPUT:
 ![web](simpleweb.png)
