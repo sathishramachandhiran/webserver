@@ -63,5 +63,7 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ![web](simpleweb.png)
+## SERVER OUTPUT:
+#[WEB](Server_output-webserver.png)
 ## RESULT:
 The program is executed succesfully
